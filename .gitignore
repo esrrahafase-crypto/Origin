@@ -218,3 +218,27 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Origin-specific data security and generated outputs
+.env
+.env.*
+!.env.example
+*.key
+secrets.json
+credentials.json
+models/
+checkpoints/
+*.joblib
+*.pkl
+*.npy
+*.npz
+*.pt
+*.pth
+*.safetensors
+*.log
+# Original source files and temporary exports (public repository)
+data/raw/*
+!data/raw/.gitkeep
+# Runtime intermediates; vetted example CSVs can be deliberately included later
+results/*.jsonl
+results/*.parquet
