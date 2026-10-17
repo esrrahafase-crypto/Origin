@@ -1,0 +1,9 @@
+# Initial dependencies; pin versions after testing in Colab
+pandas
+numpy
+pymupdf
+scikit-learn
+matplotlib
+sentence-transformers
+rank-bm25
+streamlit
