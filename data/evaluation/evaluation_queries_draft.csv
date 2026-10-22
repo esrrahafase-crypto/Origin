@@ -1,0 +1,6 @@
+query_id,title,description,language,scenario,split,reference_project_id
+"Q001","Smart Soil-Moisture Irrigation Companion","Build an irrigation assistant that measures moisture and weather to recommend watering schedules.","en","close_variant","dev","P001"
+"Q002","مترجم فوري بين لغة الإشارة والكلام","تطبيق يترجم حركات لغة الإشارة إلى صوت، ويحوّل الكلام المسموع إلى نص وإشارات.","ar","close_variant","dev","P003"
+"Q003","Mobile Road Damage Mapping","Detect potholes from phone images and send geotagged defect reports to road maintenance teams.","en","close_variant","dev","P033"
+"Q004","قصص تفاعلية لتعليم الحروف للأطفال ذوي عسر القراءة","لعبة تولد قصصًا عربية وتدرب الأطفال على مواقع الحروف مع قياس تقدمهم.","ar","close_variant","dev","P043"
+"Q005","Socratic AI Math Coach","Guide primary students through math problems with questions and generated illustrations instead of giving answers.","en","close_variant","dev","P045"
