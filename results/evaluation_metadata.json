@@ -1,0 +1,14 @@
+{
+    "retrieval_strategy": "language_aware",
+    "selection_split": "dev",
+    "evaluation_split": "final_test",
+    "total_test_queries": 20,
+    "annotated_queries": 14,
+    "unannotated_queries": 6,
+    "top_k": 5,
+    "metrics": [
+        "reference_hit_at_5",
+        "reference_mrr_at_5"
+    ],
+    "configuration_tuned_on_final_test": false
+}

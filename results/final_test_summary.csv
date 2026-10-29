@@ -1,0 +1,3 @@
+language,evaluated_queries,reference_hit_at_5,reference_mrr_at_5
+ar,7,0.7142857142857143,0.619047619047619
+en,7,1.0,0.9047619047619048

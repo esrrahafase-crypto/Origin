@@ -1,0 +1,8 @@
+# Optional dependencies for notebooks and research reproduction.
+pandas
+numpy
+pymupdf
+scikit-learn
+matplotlib
+sentence-transformers
+rank-bm25

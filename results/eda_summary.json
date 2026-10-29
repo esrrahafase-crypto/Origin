@@ -1,0 +1,20 @@
+{
+    "total_projects": 103,
+    "total_columns": 7,
+    "total_departments": 6,
+    "missing_values": {
+        "project_id": 0,
+        "title": 0,
+        "abstract": 0,
+        "department": 0,
+        "year": 0,
+        "keywords": 0,
+        "source_page": 0
+    },
+    "duplicate_project_ids": 0,
+    "duplicate_titles": 0,
+    "average_abstract_words": 171.33,
+    "minimum_abstract_words": 61,
+    "maximum_abstract_words": 277,
+    "unique_normalized_keywords": 388
+}
