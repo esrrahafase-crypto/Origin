@@ -199,12 +199,23 @@ Origin is a research-backed prototype. Its relevance is bounded by the included 
 
 Potential next steps include expanding the historical corpus, adding filters by year and department, improving explanations of ranking results, and conducting structured user evaluations with students and supervisors.
 
+## Meet the Team
+
+Origin was developed collaboratively by a team of Artificial Intelligence students.
+
+| Team Member | Role | GitHub |
+| --- | --- | --- |
+| **Rahaf Saadeddin** | **Team Leader** | [@esrrahafase-crypto](https://github.com/esrrahafase-crypto) |
+| Ghala Hazazi | Team Member | [@Ghalaxxx](https://github.com/Ghalaxxx) |
+| Renad Hazazi | Team Member | [@RENADBHAI](https://github.com/RENADBHAI) |
+| Maram Alhajri | Team Member | [@vmmci](https://github.com/vmmci) |
+
 ---
 
 <div align="center">
 
 **Origin** - *Explore the Past. Shape What's Next.*
 
-Developed by **Rahaf Saadeddin** · [GitHub](https://github.com/esrrahafase-crypto)
+Built by the **Origin team**.
 
 </div>
