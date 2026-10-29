@@ -203,7 +203,7 @@ Potential next steps include expanding the historical corpus, adding filters by 
 
 <div align="center">
 
-**Origin** — *Explore the Past. Shape What's Next.*
+**Origin** - *Explore the Past. Shape What's Next.*
 
 Developed by **Rahaf Saadeddin** · [GitHub](https://github.com/esrrahafase-crypto)
 
