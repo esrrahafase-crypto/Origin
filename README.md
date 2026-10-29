@@ -62,7 +62,7 @@ Origin proposed three directions: proactive itinerary adjustments using real-tim
 
 The Arabic-language idea explores two-way communication between Deaf or hard-of-hearing students and university staff through sign recognition and text-to-sign assistance.
 
-In this example, all three preselected related references — **P069, P036, and P003** — appeared within the five retrieved projects. Origin also produced three comparisons and three improvement suggestions.
+In this example, all three preselected related references - **P069, P036, and P003** - appeared within the five retrieved projects. Origin also produced three comparisons and three improvement suggestions.
 
 ![Origin Arabic example — related sign-language projects](docs/images/05-arabic-related-projects.png)
 
