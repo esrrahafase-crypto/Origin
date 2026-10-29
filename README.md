@@ -6,7 +6,7 @@
 
 **An AI-powered, bilingual platform for exploring graduation project ideas.**
 
-Find relevant past projects, understand where your idea overlaps, and discover practical directions to make it stronger — in **Arabic or English**.
+Find relevant past projects, understand where your idea overlaps, and discover practical directions to make it stronger - in **Arabic or English**.
 
 [Explore the Code](https://github.com/esrrahafase-crypto/Origin) · [How It Works](#how-origin-works) · [Run Locally](#run-origin-locally)
 
@@ -16,7 +16,7 @@ Find relevant past projects, understand where your idea overlaps, and discover p
 
 ## The idea behind Origin
 
-Coming up with a graduation project is exciting. Figuring out **what has already been explored** - and how to develop an idea beyond existing work - is harder.
+Coming up with a graduation project is exciting. Figuring out **what has already been explored**, and how to develop an idea beyond existing work, is harder.
 
 Origin turns a collection of previous graduation projects into a searchable starting point. Students submit an idea in natural language, explore related projects from a curated archive, and receive AI-assisted comparisons and actionable improvement suggestions grounded in the retrieved records.
 
