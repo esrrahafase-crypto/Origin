@@ -26,13 +26,13 @@ Origin turns a collection of previous graduation projects into a searchable star
 
 | Explore | Compare | Evolve |
 |:--|:--|:--|
-| **Related Projects** — Retrieve up to five relevant historical projects with their IDs and source pages. | **How Your Idea Compares** — Explain evidence-supported similarities with selected retrieved projects. | **Ways to Improve** — Suggest practical directions to develop and differentiate the proposed idea. |
+| **Related Projects** - Retrieve up to five relevant historical projects with their IDs and source pages. | **How Your Idea Compares** - Explain evidence-supported similarities with selected retrieved projects. | **Ways to Improve** - Suggest practical directions to develop and differentiate the proposed idea. |
 
 **Built for two languages.** Arabic queries use semantic retrieval; English queries use a hybrid of lexical and semantic retrieval with Reciprocal Rank Fusion (RRF). The interface also supports Arabic right-to-left layout.
 
 ## See Origin in action
 
-### English case study — DiscoverSaudi
+### English case study - DiscoverSaudi
 
 **Input:** *DiscoverSaudi: AI-Powered Personalized Tourism and Cultural Experience Planner*
 
@@ -56,7 +56,7 @@ Origin proposed three directions: proactive itinerary adjustments using real-tim
 
 ![Origin English example — improvement recommendations](docs/images/04-english-improvements.png)
 
-### Arabic case study — Saudi Sign Language university assistant
+### Arabic case study - Saudi Sign Language university assistant
 
 **Input:** *وصال | مساعد ذكي للتواصل بلغة الإشارة السعودية داخل الجامعات*
 
