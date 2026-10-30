@@ -203,7 +203,7 @@ Origin was developed collaboratively by a team of Artificial Intelligence studen
 
 | Team Member | Role | GitHub |
 | --- | --- | --- |
-| Rahaf Saadeddin | Team Leader | [@soyrahaf](https://github.com/esrrahafase-crypto) |
+| Rahaf Saadeddin | Team Leader | [@soyrahaf](https://github.com/soyrahaf) |
 | Maram Alhajri | Team Member | [@vmmci](https://github.com/vmmci) |
 | Renad Hazazi | Team Member | [@RENADBHAI](https://github.com/RENADBHAI) |
 | Ghala Hazazi | Team Member | [@Ghalaxxx](https://github.com/Ghalaxxx) |
