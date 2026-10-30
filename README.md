@@ -20,8 +20,6 @@ Coming up with a graduation project is exciting. Figuring out **what has already
 
 Origin turns a collection of previous graduation projects into a searchable starting point. Students submit an idea in natural language, explore related projects from a curated archive, and receive AI-assisted comparisons and actionable improvement suggestions grounded in the retrieved records.
 
-> **Origin supports idea exploration, not originality certification.** Its results reflect the available project archive; it does not determine global novelty or detect plagiarism.
-
 ## What Origin does
 
 | Explore | Compare | Evolve |
@@ -205,7 +203,7 @@ Origin was developed collaboratively by a team of Artificial Intelligence studen
 
 | Team Member | Role | GitHub |
 | --- | --- | --- |
-| Rahaf Saadeddin | Team Leader | [@esrrahafase-crypto](https://github.com/esrrahafase-crypto) |
+| Rahaf Saadeddin | Team Leader | [@soyrahaf](https://github.com/esrrahafase-crypto) |
 | Maram Alhajri | Team Member | [@vmmci](https://github.com/vmmci) |
 | Renad Hazazi | Team Member | [@RENADBHAI](https://github.com/RENADBHAI) |
 | Ghala Hazazi | Team Member | [@Ghalaxxx](https://github.com/Ghalaxxx) |
